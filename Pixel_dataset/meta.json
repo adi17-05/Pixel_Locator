@@ -1,0 +1,14 @@
+{
+  "n_samples": 150000,
+  "img_size": 50,
+  "bright_value": 255,
+  "shard_size": 15000,
+  "n_shards": 10,
+  "compression": "GZIP",
+  "coord_convention": "labels are (x, y) where image[y, x] = bright_value",
+  "feature_schema": {
+    "image_tensor": "tf.io.serialize_tensor(uint8[50,50])",
+    "x": "int64",
+    "y": "int64"
+  }
+}
