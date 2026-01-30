@@ -154,7 +154,7 @@ This confirms the model is correctly learning localization, not just minimizing 
 - [x] Saved models included (.keras, .tflite)
 
 ## Author
-**Name:** [ADITYA D]<br>
-**Email:** [adi.divakar1705@gmail.com]<br>
-**Phone:** [7338211060]<br>
-**University / Course:** [SJCE-Mysore/CSE]
+**Name:** ADITYA D<br>
+**Email:** adi.divakar1705@gmail.com<br>
+**Phone:** 7338211060<br>
+**University / Course:** SJCE-Mysore/CSE
